@@ -1,5 +1,3 @@
-from cgitb import reset
-from itertools import filterfalse
 from turtle import Screen
 from player import Player
 from ball import Ball
